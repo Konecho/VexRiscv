@@ -54,3 +54,6 @@ simWorkspace/
 tmp/
 /archive.tar.gz
 *.out32
+
+.direnv/
+.metals/
