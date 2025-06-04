@@ -57,3 +57,6 @@ tmp/
 
 .direnv/
 .metals/
+.bsp/
+mill.*
+build/
